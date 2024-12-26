@@ -5,7 +5,7 @@ import json
 from tqdm import tqdm
 
 # 初期設定
-HF_TOKEN = "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"
+HF_TOKEN = ""
 max_seq_length = 1024
 dtype = None  # Noneにして自動設定
 load_in_4bit = True  # 4bit量子化を有効化
